@@ -3,7 +3,7 @@
 ?>
 <?php get_header(); ?>
 
-トップページ 
+トップページ っd
 
 <?php get_footer(); ?>
 
